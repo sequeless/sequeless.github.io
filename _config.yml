@@ -1,0 +1,17 @@
+title: Sequeless
+description: The home of Sequeless on the web.
+url: "https://sequeless.org"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
